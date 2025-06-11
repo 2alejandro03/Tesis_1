@@ -1,0 +1,185 @@
+---
+title: "Efecto de variables climáticas sobre la incidencia de enfermedades fúngicas en el cultivo de papa (*Solanum tuberosum* var. huayro) en Luya, Amazonas"
+author: "Alejandro Mendoza"
+format:
+  html:
+    css: estilo.css
+    toc: true
+    toc-location: left
+    embed-resources: true
+    number-sections: true
+    output-file: index 
+    theme: cerulean
+editor_options:
+  chunk_output_type: console
+---
+# Titulo
+
+“Efecto de variables climáticas sobre la incidencia de enfermedades fúngicas en el cultivo de papa (Solanum tuberosum var. huayro) en Luya, Amazonas"
+
+# Plnteamiento de problema
+
+¿Cómo influyen la temperatura, la humedad relativa y las precipitaciones en la incidencia y severidad de enfermedades fúngicas en el cultivo de papa (Solanum tuberosum var huayro) en la provincia de Luya, Amazonas?
+
+# Objetivos
+
+## Objetivo general
+
+•	Analizar la influencia de las variables climáticas (temperatura, humedad relativa y precipitación) en la incidencia y severidad de enfermedades fungosas que afectan el cultivo de papa (Solanum tuberosum var. huayro) en la provincia de Luya, región Amazonas.
+
+## Objetivos específicos
+
+- Determinar la relación entre la temperatura y la incidencia de enfermedades fúngicas en cultivos de papa (Solanum tuberosum var. huayro) en la provincia de Luya.
+
+- Evaluar el efecto de la humedad relativa en la severidad de las principales enfermedades fúngicas que afectan a los cultivos de papa (Solanum tuberosum var. huayro) en Luya, Amazonas.
+
+- Analizar el impacto de la cantidad y frecuencia de las precipitaciones en el desarrollo y la propagación de enfermedades fúngicas en cultivos de papa (Solanum tuberosum var. huayro) en la provincia de Luya.
+
+# Hipotesis
+
+## Hipotesis general
+
+La temperatura y la humedad influyen significativamente en el desarrollo de enfermedades fúngicas en el cultivo de papa Huayro, en la provincia de Luya, Amazonas.
+
+## Hipótesis específicas
+
+- La temperatura ideal para el crecimiento de hongos patógenos en el cultivo de papa de la variedad Huayro es entre 15°C y 25°C.
+
+- La humedad relativa ideal para el crecimiento de hongos patógenos en los cultivos de papa de la variedad Huayro está entre 80% y 90%.
+
+- La combinación de temperatura y humedad ideales aumenta significativamente la gravedad de las enfermedades fúngicas en el cultivo de papa de la variedad Huayro.
+
+# Justificación
+
+Al concluir el proyecto se contribuirá a la comprensión de la relación entre temperatura y humedad en el desarrollo de enfermedades fúngicas en los cultivos de papa. Asimismo, se ampliará el conocimiento sobre la ecología de los hongos patógenos en la región. También proporcionaremos una base teórica para el desarrollo de estrategias integradas de manejo de enfermedades fúngicas en los cultivos de papa.
+
+Se proporcionará información valiosa a los agricultores y productores de papa en la región de Amazonas, Luya, buscando reducir las pérdidas económicas causadas por enfermedades fúngicas en los cultivos de papa, y así contribuyendo a mejorar la seguridad alimentaria y la calidad de vida de las comunidades rurales que costa la región de Amazonas.
+
+En el desarrollo de este proyecto se utilizará métodos y técnicas avanzadas para evaluar la relación entre la temperatura y la humedad en el desarrollo de enfermedades fúngicas, haciendo uso de herramientas estadísticas y modelos para analizar los datos, etc.
+
+Contribuye a mejorar la calidad de vida de las comunidades rurales que dependen del cultivo de papa, ayudando a reducir la pobreza y la desigualdad en la región. También promueve el desarrollo sostenible y la protección del medio ambiente.
+
+# MARCO TEÓRICO – CONCEPTUAL 
+
+## Anteedentes
+
+(Fernandez Bidondo et al., 2019) evaluó que la papa es el tubérculo más importante del mundo, cultivado en más de 125 países y consumido por más de mil millones de personas cada día, siendo el cultivo más fácil de cultivar y presentar un alto valor nutricional, sim embargo, las características biológicas de la papa plantean muchas limitaciones a la producción, incluida la baja reproducción de las semillas de papa, las altas dificultades técnicas y los costos asociados con el mantenimiento de la calidad de las semillas mediante la propagación continua, además de ser susceptibles a plagas y enfermedades transmitidas por el suelo y las semillas, los patógenos, especialmente los hongos, pueden causar pérdidas significativas de rendimiento en la producción de papa. 
+
+(van der Waals et al., 2003)  menciona que el tizón temprano causado por el hongo Alternaria solani es después del tizón tardío, la enfermedad foliar más importante del cultivo de papa se presenta con mayor incidencia en las zonas paperas ubicadas en regiones húmedas y cálidas de países como India, Uruguay, Brasil y otros del Caribe. Donde las pérdidas del cultivo se estiman entre 10 a 50% de los rendimientos según (Martin & Thurston, 1989). 
+
+En Cuba, el tizón temprano se ha considerado como una enfermedad fúngica importante y se ha encontrado variabilidad genética y patogénica entre aislados procedentes de diferentes localidades del país(Pérez et al., 2004).
+
+La producción de papa en Colombia se ve afectada por el tizón tardío causado por Phytophthora infestans, que puede causar importantes pérdidas económicas. A pesar de los avances en la comprensión de la enfermedad, aún no se han encontrado soluciones efectivas para combatirla. También es probable que el cambio climático tenga un impacto significativo en la epidemiología de las enfermedades, lo que enfatiza la necesidad de desarrollar enfoques multidisciplinarios y locales para mitigar su impacto (Wilches Ortiz et al., 2022b). En este contexto, es necesario evaluar la influencia de los factores climáticos sobre la severidad del tizón tardío en diferentes cultivares de papa colombianos.
+
+La producción de papa en el Perú se ve afectada por el tizón tardío causado por Phytophthora infestans. (SENAMHI, 2010) realizó un estudio en las provincias de Cajamarca, Huánuco y La Libertad, utilizando el modelo agroclimático GEOSIMCAST para identificar áreas de cultivo de papa según el riesgo de tizón tardío. Los resultados muestran que el área de estudio presenta condiciones meteorológicas favorables para la enfermedad, especialmente durante eventos climáticos extremos o fenómenos como El Niño. 
+
+(INIA, 2021) junto con del Ministerio de Desarrollo Agrario y Riego (MIDAGRI) entregó 10.000 tubérculos de papa prebásica de alta calidad de la variedad INIA 323 Huayro Amazonense al distrito de Longita en la provincia de Luya, región Amazonas. Esto brindará a los pequeños y medianos agricultores acceso a semillas de papa de alta calidad con altos rendimientos por hectárea, resistencia a plagas y tolerancia a diferentes tipos de clima. Así mismo, la variedad INIA 323 Huayro Amazonense se destaca por su capacidad para resistir ataques de la rancha (Phytophthora infestans) y Rhizoctonia, soportar bajas temperaturas, aumentar el rendimiento por hectáreas.
+
+# Bases teoricas de cada variable
+
+La temperatura es un factor ambiental que influye en el crecimiento y desarrollo de los hongos patógenos (Harrison, 2019). Por otra parte, un factor importante a considerar es la temperatura óptima para el crecimiento de hongos patógenos varía según la especie (Turcotte et al., 2017). La temperatura puede afectar la velocidad de crecimiento y la producción de esporas de los hongos patógenos (Johnson, 2015). 
+
+La humedad es un factor ambiental que influye en el crecimiento y desarrollo de los hongos patógenos (Gómez, 2018). También la humedad relativa puede afectar la velocidad de crecimiento y la producción de esporas de los hongos patógenos(Ramos et al., 2020). Así mismo, la humedad puede influir en la dispersión de esporas de los hongos patógenos (FAO, 2021).
+
+Las enfermedades fúngicas son causadas por hongos patógenos que infectan a los cultivos de papa (Harrison, 2019). Por otra parte, las enfermedades fúngicas pueden reducir la producción y calidad de los tubérculos (Turcotte et al., 2017). También, estas mismas enfermedades fúngicas pueden ser controladas mediante la gestión integrada de enfermedades (FAO, 2021). 
+
+El cultivo de papa es una actividad económica importante en la región, Amazonas y destaca por su sencillez en el cultivo (MINAGRI, 2020). No obstante, el cultivo de papa puede ser afectado por factores ambientales como la temperatura y la humedad (Gómez, 2018). El cultivo de papa puede ser susceptible a enfermedades fúngicas debido al clima donde se cultiva proporcionando un ambiente favorable para la propagación de estos (Harrison, 2019). 
+
+# MARCO METODOLÓGICO 
+
+Este estudio es una investigación cuantitativa con un diseño experimental o mejor dicho de tipo mixto, ya que se utilizarán métodos estadísticos para analizar los datos y a su misma vez se realizarán experimentos controlados para evaluar el efecto de la temperatura y la humedad en el desarrollo de enfermedades fúngicas.
+
+En cuanto al nivel de investigación es practico, puesto que en esta investigación busca aplicar los conocimientos científicos y técnicas existentes para resolver el problema planteado. Donde se empleará la investigación aplicada, buscando resolver un problema práctico en el cultivo de papa, y la investigación descriptiva en la cual se buscará describir la relación entre la humedad, la temperatura y el desarrollo de las enfermedades fúngicas en el cultivo de papa. 
+
+El diseño de investigación más apropiado para este proyecto es realizar experimentos utilizando un método factorial completamente aleatorio complementado con un análisis de correlación descriptivo. Donde se establecerán parcelas experimentales controladas para evaluar los efectos de diferentes combinaciones de temperatura las cuales serán de, 7°C, 15°C, 25°C y en cuanto a la humedad relativa serán de, 60%, 80%, 90% sobre la aparición y gravedad de las enfermedades fúngicas en cultivo de papa Huayro se utilizará un diseño factorial (3x3) para enfermedades fúngicas en los cultivos, replicándose cada tratamiento tres veces. Simultáneamente se realizarán análisis descriptivos y correlacionales de datos climáticos históricos y observaciones de campo, que permitirán vincular variables ambientales con la prevalencia de enfermedades. El diseño proporciona control climático experimental y validez externa al incluir datos reales de la región.
+
+El enfoque de investigación es mixto ya que mezcla cuantitativo con cualitativo dado que combina la recopilación y el análisis de datos digitales para identificar relaciones entre la temperatura, la humedad y las enfermedades fúngicas con técnicas cualitativas como entrevistas con agricultores para comprender las perspectivas locales sobre las enfermedades fúngicas. Este enfoque integrado puede resolver problemas desde una perspectiva científica precisa y contextual, proporcionando documentación estadística e información práctica y socialmente relevante a la comunidad agrícola de la región.
+
+## Variables:
+
+Las variables del proyecto se pueden dividir en tres tipos principales: variables independientes, variables dependientes y variables controladas. Están directamente relacionados con el propósito y diseño del estudio. A continuación, se detallan: 
+
+-	**Variables independientes:**
+
+- **Temperatura**: se evaluarán diferentes rangos de temperaturas medidas en grados centígrados, estas medidas serán consideradas; 7°C, 15 °C, 25°C, esto con la intensión de simular las condiciones ambientales del medio a realizar la investigación. 
+
+**Humedad relativa**: para esta variable se considerará las siguientes mediciones; 60%, 80% y 90%, con la finalidad de evaluar la influencia de esta misma en la propagación de las enfermedades fúngicas. 
+
+- **Variables dependientes**:
+
+- **Incidencia de las enfermedades**: aquí se medirá el porcentaje de las plantas afectadas por los hongos como, Phytophthora infestans, Fusarium solani y Rhizoctonia solani. 
+
+- **Severidad de las enfermedades**: se evaluará la severidad de los síntomas en las plantas de papa haciendo uso de escalas visuales estándar. 
+
+- **Producción del cultivo**: se medirá la producción total de los tubérculos que han sido afectados por las enfermedades fúngicas, la escala a utilizar será en kg/ha. 
+
+- **Calidad del tubérculo de papa**: se va tener en consideración los parámetros físicos y visuales relacionados con el daño causado por las enfermedades fúngicas. 
+
+- **Variables de control**:
+
+- **Tipo de suelo**: se usará el mismo tipo de suelo, como también el miso control de las características del suelo en todas las parcelas. 
+
+- **Variedad del cultivo**: para homogenizar las condiciones se utilizará solamente la papa de variedad Huayro. 
+
+- **Condiciones ambientales externas**: la investigación se realizará en parcelas controladas para que las condiciones como luz y viento sean las mismas en cada parcela. 
+
+- **Manejo agronómico**: para este caso las labores culturales, el tipo de fertilización y el riego será homogéneo para todas las parcelas. 
+
+## Definición conceptual  
+
+- Humedad relativa: Es la relación que existe entre la humedad absoluta actual y la humedad absoluta más alta alcanzable, que depende de la temperatura del aire actual (Garay-Peralta et al., 2024).
+
+- Incidencia de las enfermedades: es el porcentaje de hojas enfermas sobre el total de hojas evaluadas en el lote (Ochoa-Avilés et al., 2024).
+
+- Severidad de las enfermedades: es el porcentaje de superficie foliar eliminada para cada síntoma, mancha y pústula de la enfermedad (Lavilla et al., 2023).
+
+- Condiciones ambientales externas: son los factores del entorno que guardan relación con el crecimiento y desarrollo de los cultivares y que los mismos no son controlados directamente por el agricultor.
+
+- Manejo agronómico: hace mención al conjunto de prácticas y técnicas que se utilizan para mejorar el crecimiento y desarrollo fenológico de los cultivos, minimizando los impactos climáticos y contribuyendo a la máxima producción y calidad de los cultivos (Contreras-Liza et al., 2019).
+
+# REFERENCIAS BIBLIOGRAFICAS
+
+Caro Castro, J., Mateo Tuesta, C., Cisneros Mosco, J., Galindo Cabello, N., & León Quispe, J. (2019). aislamiento y selección de actinomicetos rizosféricos con actividad antagonista a fitopatógenos de la papa (Solanum tuberosum spp. andigena). Ecología Aplicada, 18(2), 101. https://doi.org/10.21704/rea.v18i2.1329
+
+Contreras-Liza, S. E., Noriega Córdoba, H., Valenzuela Muñoz, A., Arias Martínez, L., Zúñiga Dávila, D., & García-Bendezú, S. (2019). Uso de inoculantes como estrategia de manejo agronómico sustentable en fincas de papa (Solanum tuberosum) de la región Lima. Idesia (Arica), 37(3), 29–37. https://doi.org/10.4067/S0718-34292019000300029
+
+FAO. (2021). Informe sobre la gestión integrada de enfermedades fúngicas en cultivos de papa.
+Fernandez Bidondo, L., Almasia, N., Bazzini, A., Colombo, R., Hopp, E., Vazquez-Rovere, C., & Godeas, A. (2019). The overexpression of antifungal genes enhances resistance to rhizoctonia solani in transgenic potato plants without affecting arbuscular mycorrhizal symbiosis. Crop Protection, 124, 104837. https://doi.org/10.1016/j.cropro.2019.05.031
+
+Garay-Peralta, I., Villarruel-Fuentes, M., Luna-Díaz Peón, A., Chávez-Morales, R., & Herrera-Alarcón, J. (2024). Factores climáticos en el desarrollo y producción de cacao en Úrsulo Galván, Veracruz, México. Agronomía Mesoamericana, 54337. https://doi.org/10.15517/am.2024.54337
+
+Gómez, J. , P. A. , & R. L. (2018). Estudio de la ecología de los hongos patógenos en cultivos de papa en Perú. . Revista de Fitopatología, 45(2), 123–136.
+
+Harrison, R. , S. B. , & B. C. (2019). The relationship between temperature and humidity in the development of fungal diseases in potato crops. Plant Pathology Journal, 58(4), 567–576.
+INIA. (2021, October 25). INIA entrega 10 mil tuberculillos de papa de alta calidad para potenciar producción de Longuita en Amazonas. Gobierno Del Perú.
+
+Johnson, T. , M. A. , & L. S. (2015). Fungal diseases in potato crops: The impact of temperature and humidity. Journal of Agricultural Science. Journal of Agricultural Science, 32(3), 45–58.
+Lavilla, M., Martínez, M., Ivancovich, A., & Díaz-Paleo, A. (2023). Modelo predictivo de la severidad del tizón foliar por Cercospora kikuchii mediante variables meteorológicas. Agronomía Mesoamericana, 54430. https://doi.org/10.15517/am.2023.54430
+
+Martin, C., & Thurston, H. D. (1989). Factors affecting resistance to Alternaria solani and progress in Early blight research at CIP. CIP, 101–118.
+
+Mejía Méndez, G., & Castellanos Suárez, J. A. (2018). Costos de producción y rentabilidad del cultivo de la papa en el municipio de Zacapoaxtla, Puebla. Revista Mexicana de Ciencias Agrícolas, 9(8), 1651–1661. https://doi.org/10.29312/remexca.v9i8.1721
+
+Meza, N., Daboín, B., Moratinos, P., Riveros, R., & Sequera, F. (2013). Crecimiento y producción de variedades de papa en Cuencas, municipio Urdaneta del estado Trujillo, Venezuela. Agronomía Tropical, 63(3–4), 177–183.
+MINAGRI. (2020). Programas de control de enfermedades fúngicas en cultivos de papa. Ministerio de Agricultura y Riego Del Perú.
+
+Ochoa-Avilés, A., Escandón, S., Ochoa-Avilés, C., Heredia-Andino, O., & Ortiz-Ulloa, J. (2024). Incidencia de las enfermedades transmitidas por alimentos en Ecuador. Revista Peruana de Medicina Experimental y Salud Pública, 273–280. https://doi.org/10.17843/rpmesp.2024.413.13456
+
+Pérez, L, & García A. (2004). Enfermedades fungosas y bacterianas de la papa: descripción, epidemiología y manejo. En: Estévez, A (Ed.) El cultivo de la papa en Cuba. Ediciones INCA.
+
+Ramos, M., Torres, D., & Ruiz, E. (2020). Diversidad de hongos patógenos en cultivos de papa en la región Amazonas. Revista de Biología Agrícola, 12(1), 34–42.
+
+Salas López, R., Rodríguez Calampa, N. J., Barboza Castillo, E., Mendoza Chchiple, M. E., & Oliva, M. (2017). Microzonificación agroecológica de sistemas agrosilvopastoriles empleando un modelo de procesamiento basado en SIG en parcelas en la provincia de Bongará, Amazonas (Perú). Revista de Investigación de Agroproducción Sustentable, 1(2), 40. https://doi.org/10.25127/aps.20172.361
+
+SENAMHI. (2010). Severidad del tizón tardío de la papa (Phytophthora infestans) en zonas  agrícolas del Perú asociado con el cambio climático. REVISTA PERUANA GEO-ATMOSFÉRICA RPGA, 2, 56–67.
+
+Tomorrow.io. (2024). Pronóstico del tiempo para Provincia de Luya, Perú.
+
+Turcotte, C., Charron, C., & Dufour, D. (2017). mpact of climate on fungal diseases in potato cultivation in Canada. Canadian Journal of Plant Science. Canadian Journal of Plant Science, 97(2), 281–290.
+
+van der Waals, J. E., Denner F, D. N., van Rij, N., & Korsten, L. (2003). Evaluation ol plant-plus, a decision support system for control early blight on potatoes in South Africa. . . Crop Prot, 22, 821–828.
+
+Wilches Ortiz, W. A., Vargas Diaz, R. E., & Espitia Malagón, E. M. (2022a). Efectos del clima y su relación con el tizón tardío (Phytophthora infestans (Mont.) de Bary) en cultivo de papa (Solanum tuberosum L.). Siembra, 9(2), e4008. https://doi.org/10.29166/siembra.v9i2.4008
+
+Wilches Ortiz, W. A., Vargas Diaz, R. E., & Espitia Malagón, E. M. (2022b). Efectos del clima y su relación con el tizón tardío (Phytophthora infestans (Mont.) de Bary) en cultivo de papa (Solanum tuberosum L.). Siembra, 9(2), e4008. https://doi.org/10.29166/siembra.v9i2.4008
+
