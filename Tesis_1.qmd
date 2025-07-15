@@ -137,6 +137,136 @@ Las variables del proyecto se pueden dividir en tres tipos principales: variable
 
 - Manejo agronómico: hace mención al conjunto de prácticas y técnicas que se utilizan para mejorar el crecimiento y desarrollo fenológico de los cultivos, minimizando los impactos climáticos y contribuyendo a la máxima producción y calidad de los cultivos (Contreras-Liza et al., 2019).
 
+# MARCO METODOLÓGICO
+
+## Tipo de investigación:
+
+Este estudio es una investigación cuantitativa con un diseño experimental o mejor dicho de tipo mixto, ya que se utilizarán métodos estadísticos para analizar los datos y a su misma vez se realizarán experimentos controlados para evaluar el efecto de la temperatura y la humedad en el desarrollo de enfermedades fúngicas.
+
+## Nivel de investigación: 
+
+El nivel de investigación es practico, puesto que en esta investigación busca aplicar los conocimientos científicos y técnicas existentes para resolver el problema planteado. Donde se empleará la investigación aplicada, buscando resolver un problema práctico en el cultivo de papa, y la investigación descriptiva en la cual se buscará describir la relación entre la humedad, la temperatura y el desarrollo de las enfermedades fúngicas en el cultivo de papa. 
+
+Diseño de investigación:  
+El diseño de investigación más apropiado para este proyecto es realizar experimentos utilizando un método factorial completamente aleatorio complementado con un análisis de correlación descriptivo. Donde se establecerán parcelas experimentales controladas para evaluar los efectos de diferentes combinaciones de temperatura las cuales serán de, 7°C, 15°C, 25°C y en cuanto a la humedad relativa serán de, 60%, 80%, 90% sobre la aparición y gravedad de las enfermedades fúngicas en cultivo de papa Huayro se utilizará un diseño factorial (3x3) para enfermedades fúngicas en los cultivos, replicándose cada tratamiento tres veces. Simultáneamente se realizarán análisis descriptivos y correlacionales de datos climáticos históricos y observaciones de campo, que permitirán vincular variables ambientales con la prevalencia de enfermedades. El diseño proporciona control climático experimental y validez externa al incluir datos reales de la región.
+
+## Enfoque de investigación:
+
+El enfoque de investigación es mixto ya que mezcla cuantitativo con cualitativo dado que combina la recopilación y el análisis de datos digitales para identificar relaciones entre la temperatura, la humedad y las enfermedades fúngicas con técnicas cualitativas como entrevistas con agricultores para comprender las perspectivas locales sobre las enfermedades fúngicas. Este enfoque integrado puede resolver problemas desde una perspectiva científica precisa y contextual, proporcionando documentación estadística e información práctica y socialmente relevante a la comunidad agrícola de la región.
+
+## Variables:
+
+Las variables del proyecto se pueden dividir en tres tipos principales: variables independientes, variables dependientes y variables controladas. Están directamente relacionados con el propósito y diseño del estudio. A continuación, se detallan: 
+
+-	Variables independientes: 
+
+*Temperatura:* se evaluarán diferentes rangos de temperaturas medidas en grados centígrados, estas medidas serán consideradas; 7°C, 15 °C, 25°C, esto con la intensión de simular las condiciones ambientales del medio a realizar la investigación. 
+
+*Humedad relativa*: para esta variable se considerará las siguientes mediciones; 60%, 80% y 90%, con la finalidad de evaluar la influencia de esta misma en la propagación de las enfermedades fúngicas. 
+
+-	Variables dependientes: 
+
+*Incidencia de las enfermedades:* aquí se medirá el porcentaje de las plantas afectadas por los hongos como, Phytophthora infestans, Fusarium solani y Rhizoctonia solani. 
+
+*Severidad de las enfermedades:* se evaluará la severidad de los síntomas en las plantas de papa haciendo uso de escalas visuales estándar. 
+
+*Producción del cultivo:* se medirá la producción total de los tubérculos que han sido afectados por las enfermedades fúngicas, la escala a utilizar será en kg/ha. 
+
+*Calidad del tubérculo de papa:* se va tener en consideración los parámetros físicos y visuales relacionados con el daño causado por las enfermedades fúngicas. 
+
+-	Variables de control:
+
+*Tipo de suelo:* se usará el mismo tipo de suelo, como también el miso control de las características del suelo en todas las parcelas. 
+
+*Variedad del cultivo:* para homogenizar las condiciones se utilizará solamente la papa de variedad Huayro. 
+
+
+*Condiciones ambientales externas:* la investigación se realizará en parcelas controladas para que las condiciones como luz y viento sean las mismas en cada parcela. 
+
+*Manejo agronómico:* para este caso las labores culturales, el tipo de fertilización y el riego será homogéneo para todas las parcelas. 
+
+### Definición operacional (descomponer en Indicadores y ítems (como planificar) dimensiones) (Operacionalización de variables)
+
+## Tabla: Variables, dimensiones, indicadores e ítems
+
+| Variable                          | Dimensión                | Indicadores                                     | Ítems                                                                 |
+|----------------------------------|--------------------------|-------------------------------------------------|-----------------------------------------------------------------------|
+| Temperatura                      | Rango térmico            | Rango (°C), promedio mínimo y máximo            | Registro con sensores, medición de los rangos; 7°C, 15°C, 25°C y medición cada 2 horas |
+| Humedad relativa                 | Niveles de humedad       | Porcentaje y variación diaria                   | Sensores de humedad, medición de niveles de 60%, 80% y 90%, y medir cada 2 horas |
+| Incidencia de enfermedades fúngicas | Presencia de enfermedades | Porcentaje de plantas infectadas               | Conteo semanal de plantas infectadas y diagnóstico laboratorial      |
+| Severidad de enfermedades        | Severidad de los síntomas| Porcentaje de área dañada y grado de deterioro  | Escalas visuales de 1 a 5 y registros semanales                       |
+| Producción del cultivo           | Rendimiento              | Peso total en kg y proporción dañada            | Cosecha y pesaje al final de la experimentación                      |
+| Calidad del tubérculo            | Características físicas  | Presencia de manchas o podredumbre              | Inspección visual y clasificación comercial                          |
+## Población, muestra y muestreo
+
+*Población*
+
+La población de esta investigación está constituida por el cultivo de papa (Solanum tuberosum) cultivar Huayro, cultivado en la provincia de Luya en la región Amazonas durante el período de análisis. Este grupo incluye campos comerciales manejados por agricultores locales y parcelas experimentales con características agroecológicas similares. Esta población también incluye plantas individuales en cada parcela que pueden verse afectadas por enfermedades fúngicas como Phytophthora infestans, Fusarium solani y Rhizoctonia solani.
+
+*Muestra*
+
+La muestra estará compuesta por parcelas experimentales seleccionadas con criterios de representatividad y el tamaño de la muestra se determinará en función de la uniformidad y disponibilidad de las condiciones agrícolas de la zona. Incluirá al menos 10 parcelas ubicadas en diferentes localidades de la provincia de Luya, cada parcela tiene una superficie de 500 m², divididas en parcelas de 100 m² para garantizar la variabilidad climática y el análisis de variables. Las plantas en la parcela se revisarán aleatoriamente, asegurándose de que haya al menos 100 plantas en la parcela.
+
+*Muestreo*
+
+Para el muestreo de esta investigación se utilizará muestreo aleatorio estratificado. Las parcelas se dividirán en clases según la elevación y el microclima como, por ejemplo, áreas de mayor y menor humedad relativa, asegurando que cada clase represente condiciones relevantes para el desarrollo de enfermedades fúngicas. En cada parcela, las plantas y las áreas se seleccionarán aleatoriamente para medir variables, asegurando la inclusión de unidades representativas y comparables para evaluar la incidencia y gravedad de las enfermedades en función de la temperatura y la humedad.
+
+## Matriz general de variables: 
+
+## Tabla: Variables, dimensiones, indicadores, instrumentos de medición y técnicas de análisis
+
+| Variable                   | Dimensión                | Indicadores                                            | Instrumentos de medición                             | Técnica de análisis                          |
+|---------------------------|--------------------------|--------------------------------------------------------|------------------------------------------------------|----------------------------------------------|
+| Temperatura               | Rango térmico            | Rango, promedio mín. y máx. (°C)                       | Termo-higrómetros digitales                          | Análisis descriptivo y correlacional         |
+| Humedad relativa          | Niveles de humedad       | Porcentaje de humedad (%)                              | Sensores de humedad                                  | Análisis descriptivo y correlacional         |
+| Incidencia de enfermedades| Presencia de hongos      | Porcentaje de plantas infectadas                       | Observación directa, pruebas de laboratorio          | Análisis estadístico (frecuencia)            |
+| Severidad de enfermedades | Severidad de los síntomas| Escala visual (1–5), área foliar dañada (%)            | Escala estandarizada, análisis fotográfico           | Comparación entre tratamientos                |
+| Producción del cultivo    | Rendimiento              | Peso total de tubérculos (kg), proporción dañada (%)   | Balanza de precisión                                 | Análisis comparativo entre tratamientos       |
+| Calidad de los tubérculos | Características físicas  | Presencia de manchas, podredumbre (%)                  | Inspección visual                                    | Análisis descriptivo                         |
+
+*Métodos:* 
+
+El desarrollo de este proyecto se realizará utilizando un diseño factorial completamente al azar (3x3) para evaluar tres clases de temperatura (7°C, 15°C y 25°C) y tres niveles de humedad relativa (60%, 80% y 90) sobre la incidencia y severidad de las enfermedades fúngicas en papas cultivadas en la región de la variedad Huayro. Se monitoreará la uniformidad de las condiciones del suelo, el manejo agronómico y la exposición ambiental de las parcelas experimentales para evaluar con precisión las variables. Por otra parte, se medirán periódicamente la temperatura, la humedad, la incidencia y severidad de las enfermedades, así como el rendimiento y la calidad de los tubérculos.
+
+*Ubicación del experimento:*
+
+El experimento se realizará en parcelas ubicadas en la provincia de Luya, Amazonas, es decir, en comunidades con condiciones climáticas típicas de la región. La temperatura promedio diurna en la provincia es de 20°C, la temperatura nocturna es de 7°C y la humedad relativa promedio es de 71%. Estas características agroclimáticas son adecuadas para evaluar el crecimiento de hongos patógenos en cultivos de papa.
+
+*Tamaño del experimento:*
+
+El área experimental tendrá una superficie de 2550 m², dividida en 9 parcelas, cada parcela será de 255 m², con asignación de tratamiento según el diseño factorial. Cada tratamiento se repetirá tres veces para un total de 27 unidades experimentales. Se plantarán 100 plántulas de papa Huayro en cada parcela, lo que proporcionará una muestra estadísticamente significativa.
+
+*Cronograma:*
+
+## Tabla: Cronograma de actividades
+
+| ACTIVIDADES                         | MESES | PERIODO INICIO | PERIODO TÉRMINO |
+|------------------------------------|--------|----------------|-----------------|
+| Preparación del terreno            | 1      | Febrero 2026   | Marzo 2026      |
+| Establecimiento del experimento    | 1      | Marzo 2026     | Abril 2026      |
+| Monitoreo de temperatura y humedad | 3      | Abril 2026     | Junio 2026      |
+| Recolección de datos               | 3      | Abril 2026     | Junio 2026      |
+| Análisis de datos                  | 1      | Junio 2026     | Julio 2026      |
+| Redacción del informe final        | 1      | Julio 2026     | Agosto 2026     |
+| **TOTAL**                          | **7**  | **Febrero 2026** | **Agosto 2026** |
+
+*Análisis de datos:*
+
+Los datos recopilados se analizarán mediante ANOVA para determinar la importancia de los efectos principales (temperatura y humedad) y su interacción con las variables dependientes: incidencia, severidad de la enfermedad, rendimiento y calidad del tubérculo. Además, se realizarán análisis de regresión múltiple para modelar la relación entre las variables climáticas y la respuesta de los cultivos. 
+
+
+Donde: 
+T1: Tempratura de 7°C con humedad realtiva de 60%
+T2: Tempratura de 7°C con humedad realtiva de 80%
+T3: Tempratura de 7°C con humedad realtiva de 90%
+T4: Tempratura de 15°C con humedad realtiva de 60%
+T5: Tempratura de 15°C con humedad realtiva de 80%
+T6: Tempratura de 15°C con humedad realtiva de 90%
+T7: Tempratura de 25°C con humedad realtiva de 60%
+T8: Tempratura de 25°C con humedad realtiva de 80%
+T9: Tempratura de 25°C con humedad realtiva de 90%
+
+
 # REFERENCIAS BIBLIOGRAFICAS
 
 Caro Castro, J., Mateo Tuesta, C., Cisneros Mosco, J., Galindo Cabello, N., & León Quispe, J. (2019). aislamiento y selección de actinomicetos rizosféricos con actividad antagonista a fitopatógenos de la papa (Solanum tuberosum spp. andigena). Ecología Aplicada, 18(2), 101. https://doi.org/10.21704/rea.v18i2.1329

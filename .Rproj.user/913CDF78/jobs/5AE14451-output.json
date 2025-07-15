@@ -1,4 +1,0 @@
-[1,"==> quarto preview Tesis_1.qmd --to html --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  embed-resources: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - estilo.css\n  toc: true\n  number-sections: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: 'Efecto de variables climáticas sobre la incidencia de enfermedades fúngicas en el cultivo de papa (*Solanum tuberosum* var. huayro) en Luya, Amazonas'\n  author: Alejandro Mendoza\n  editor_options:\n    chunk_output_type: console\n  toc-location: left\n  theme: cerulean\n  \n"]
-[1,"Output created: index.html\n\nWatching files for changes\n"]
-[1,"Browse at http://localhost:7944/\n"]
